@@ -60,7 +60,3 @@ The repository includes the following result files:
 The repository currently provides **complete experimental results** to support transparency and reproducibility of the reported findings.
 
 👉 The **source code and full implementation details will be released after the acceptance of the manuscript**.
-
-
-* tailor this README for **IEEE / Elsevier style**
-* or create a **short “GitHub summary version” + detailed “docs/README_full.md” split** (which reviewers love)
